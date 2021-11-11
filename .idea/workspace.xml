@@ -19,8 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="562c6d6e-dde4-4a94-b70c-86e4c5a848f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lisi.js" afterDir="false" />
+=======
     <list default="true" id="d1ca3d4d-1fc9-478a-af1d-62c6bf0b9785" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/zhangsan.js" afterDir="false" />
+>>>>>>> c710d86347b14b0bbe3d72240fd6f5ebeaf317cf
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +49,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="ProjectId" id="20lwyO4nx63kXGE3LsH2IoqNwkY" />
+=======
   <component name="ProjectId" id="20lx1lNCMkSxZloIm1iumFSIIjF" />
+>>>>>>> c710d86347b14b0bbe3d72240fd6f5ebeaf317cf
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,6 +79,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="562c6d6e-dde4-4a94-b70c-86e4c5a848f4" name="Default Changelist" comment="" />
+      <created>1636632738810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636632738810</updated>
+      <workItem from="1636632742246" duration="20000" />
+      <workItem from="1636633808385" duration="36000" />
+=======
       <changelist id="d1ca3d4d-1fc9-478a-af1d-62c6bf0b9785" name="Default Changelist" comment="" />
       <created>1636632762605</created>
       <option name="number" value="Default" />
@@ -77,6 +95,7 @@
       <updated>1636632762605</updated>
       <workItem from="1636632763915" duration="36000" />
       <workItem from="1636632829426" duration="69000" />
+>>>>>>> c710d86347b14b0bbe3d72240fd6f5ebeaf317cf
     </task>
     <servers />
   </component>

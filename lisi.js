@@ -1,0 +1,1 @@
+alerf('lisi.js')
