@@ -1,3 +1,3 @@
 main.onclick = function () {
-    alert ('张三的内容')
+    alert ('李四的内容')
 }
